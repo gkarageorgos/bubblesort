@@ -10,7 +10,6 @@ void bubbleSort(int arr[], int n);
 int main(){
     int n; // Size of the array
     int max_value; // Maximum possible element in the array
-    int x;
 
     printf("Enter the size of the array:");
     scanf("%d", &n);
